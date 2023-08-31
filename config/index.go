@@ -1,10 +1,11 @@
 package config
 
 import (
-	"Netxd_Project1/Netxd_Customer_config/constants"
 	"context"
 	"log"
 	"time"
+
+	"github.com/SELVAKANNAN-P/Netxdconfig/constants"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
